@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Config>
+    <psudoPWD value="1"> a </psudoPWD>
+    <currentRelease value="2"> p </currentRelease>
+    <previousRelease value="3" > x </previousRelease>
+</Config>

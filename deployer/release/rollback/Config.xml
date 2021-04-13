@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Config>
+    <psudoPWD value="/Users/akjha/Desktop/kashish"> /Users/akjha/Desktop/kashish </psudoPWD>
+    <executionVersion value="91" > 91 </executionVersion>
+    <currentRelease value="2"> p </currentRelease>
+    <previousRelease value="3" > x </previousRelease>
+    <linkBackUpPatoToGo value="4" > 4 </linkBackUpPatoToGo>
+    <linkBackUpPatoToComeBack value="5" > 5 </linkBackUpPatoToComeBack>
+</Config>
